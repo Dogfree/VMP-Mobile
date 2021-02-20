@@ -1,8 +1,8 @@
 # Vice City Multiplayer for Android OS
-The multiplayer modification of GTA:VC on Android OS (Powered by TODAY Games)
-© Bogdan Kotov and Fetisov
+The multiplayer modification of GTA:VC on Android OS 
+© Artem Amazonov
 
-VK: https://vk.com/vcmp.mobile
+VK: https://vk.com/red_catqueen
 
 
 
